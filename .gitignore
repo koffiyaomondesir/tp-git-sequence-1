@@ -1,0 +1,7 @@
+# Fichiers compilés C++
+*.o
+*.exe
+bienvenue
+
+# Fichiers temporaires
+*~

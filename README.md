@@ -22,3 +22,12 @@ void afficherBienvenue();
 
 #endif // FONCTION_BIENVENUE_H
 ```
+## Utilisation
+
+```sh
+$ ./bienvenue
+Bienvenue le monde !
+
+$ ./bienvenue "Bonjour"
+Bonjour
+```
